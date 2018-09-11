@@ -1,3 +1,0 @@
-Chapter 1: The intergrate-and-fire model.
-Chapter 2: Hodgkin-Huxley neuron.
-Adding a new line...
